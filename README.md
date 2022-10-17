@@ -64,8 +64,7 @@ software engineering program.
 
 This is a peer project
 ## Pseudocode
-<strong>Pseudocode</strong></span></h2>
-<blockquote><p><span style="color: #000000;"><strong>Module&nbsp;1:&nbsp;Initializing Myprintf’s arguments</strong></span></p></blockquote>
+<blockquote><p><span style="color: #000000;"><strong>Module&nbsp;1:&nbsp;Initializing a variadic function </strong></span></p></blockquote>
 <p style="text-align: justify;"><span style="color: #000000;">In this section, we initialize the arguments of Myprintf( ) function by using standard argument library.</span></p>
 <pre class="lang:default decode:true ">va_list arg;</pre>
 <p style="text-align: justify;"><span style="color: #000000;">This line declares a variable, <strong>arg</strong>, which we use to&nbsp;manipulating the argument list containing variable arguments of Myprintf( ). The data type of the variable is va_list, a special type defined by &lt;stdarg.h&gt;.</span></p>
